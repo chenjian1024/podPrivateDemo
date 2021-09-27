@@ -1,0 +1,6 @@
+framework module podPrivateDemo {
+  umbrella header "podPrivateDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
